@@ -147,5 +147,3 @@ Then populate them with data:
 python etl.py
 ```
 At this point the data is populated and ready for analysis.
-# udacity-data-engineering-project3
-# udacity-data-engineering-project3
